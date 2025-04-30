@@ -10,10 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (2022–2026) at Lovely Professional University
-- 💼 Working as **Business Growth Specialist** at Acmegrade
 - 🌱 Currently mastering **Machine Learning, DevOps, and Full-Stack Development**
 - 🧠 Passionate about **AI, Generative Models, Predictive Analytics**, and building impactful solutions
-- 📬 Reach me at **sagrpakar777@gmail.com**
+- 📬 Reach me at **sagarpakar777@gmail.com**
 
 ---
 
